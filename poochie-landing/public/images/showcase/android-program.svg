@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Placeholder Android program">
+  <defs><linearGradient id="g" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" stop-color="#27272a"/><stop offset="100%" stop-color="#3f3f46"/></linearGradient></defs>
+  <rect width="390" height="844" fill="url(#g)"/>
+  <text x="195" y="400" text-anchor="middle" fill="#a1a1aa" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Android · Your program</text>
+  <text x="195" y="428" text-anchor="middle" fill="#71717a" font-family="ui-sans-serif,system-ui,sans-serif" font-size="11">android-program</text>
+</svg>

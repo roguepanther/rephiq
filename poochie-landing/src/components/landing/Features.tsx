@@ -83,7 +83,8 @@ function FeatureIcon({ children }: { children: ReactNode }) {
 export default function Features() {
   return (
     <section
-      className="border-t border-white/5 bg-zinc-900/50 px-6 py-24 text-white sm:py-32"
+      id="features"
+      className="scroll-mt-24 border-t border-white/5 bg-zinc-900/50 px-6 py-24 text-white sm:scroll-mt-28 sm:py-32"
       aria-labelledby="features-heading"
     >
       <div className="mx-auto max-w-6xl">
