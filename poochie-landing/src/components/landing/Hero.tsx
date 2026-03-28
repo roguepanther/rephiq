@@ -32,9 +32,12 @@ export default function Hero() {
   
           {/* CTA buttons */}
           <div className="mt-12 flex flex-col gap-4 sm:flex-row">
-            <button className="rounded-full bg-white px-8 py-4 font-semibold text-black transition duration-300 hover:scale-105 active:scale-95">
+            <a
+              href="#waitlist"
+              className="inline-flex items-center justify-center rounded-full bg-white px-8 py-4 font-semibold text-black transition duration-300 hover:scale-105 active:scale-95"
+            >
               Join Waitlist
-            </button>
+            </a>
   
             <button className="rounded-full border border-white/10 px-8 py-4 font-semibold text-zinc-300 transition duration-300 hover:bg-white/5 hover:text-white active:scale-95">
               See Features
