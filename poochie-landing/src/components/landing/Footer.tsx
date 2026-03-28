@@ -8,19 +8,19 @@ export default function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col gap-10 md:flex-row md:items-start md:justify-between md:gap-12">
         <div className="flex flex-col gap-3">
           <p className="text-base font-semibold tracking-tight sm:text-lg">
-            Poochie Fitness
+            Rephiq
           </p>
           <p className="max-w-md text-sm text-zinc-500">
-            © {year} Poochie Fitness. All rights reserved.
+            © {year} Rephiq Fitness. All rights reserved.
           </p>
         </div>
 
         <div className="flex flex-col gap-6 md:items-end">
           <a
-            href="mailto:hello@poochiefitness.com"
+            href="mailto:support@rephiqfitness.com"
             className="text-sm text-zinc-400 transition duration-300 hover:text-zinc-200"
           >
-            hello@poochiefitness.com
+            hello@.com
           </a>
           <nav aria-label="Legal">
             <ul className="flex flex-wrap gap-x-6 gap-y-2 text-sm">
