@@ -39,9 +39,12 @@ export default function Hero() {
               Join Waitlist
             </a>
   
-            <button className="rounded-full border border-white/10 px-8 py-4 font-semibold text-zinc-300 transition duration-300 hover:bg-white/5 hover:text-white active:scale-95">
+            <a
+              href="#features"
+              className="inline-flex items-center justify-center rounded-full border border-white/10 px-8 py-4 font-semibold text-zinc-300 transition duration-300 hover:bg-white/5 hover:text-white active:scale-95"
+            >
               See Features
-            </button>
+            </a>
           </div>
         </div>
   
